@@ -1,2 +1,2 @@
-sh: 1: :wq: not found
-echo "ALX School is so cool!"
+#!/bin/bash
+echo "ALX"
